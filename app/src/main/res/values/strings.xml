@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BD Entrepreneur Zone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+
+    <string name="select_options">Select</string>
+    <string name="selectgender">Gender</string>
+    <string name="selectmarried">Married</string>
+    <string name="selecthousing">Housing</string>
+    <string name="enterDependents">Enter number of family member dependent on you?</string>
+    <string name="selecteducation">Select Educational Qualification</string>
+    <string name="enterIncome">Enter your income (in thousand)</string>
+    <string name="enterLoanAmount">Enter loan amount (in thousand)</string>
+    <string name="enterLoanDuration">Enter Loan Duration (in years)</string>
+    <string name="selectpropertyarea">Enter Property Area</string>
+    <string name="selectbusiideatype">Is your business idea new or innovative?</string>
+    <string name="selectunpaidloan">Do you have any unpaid loan from another bank?</string>
+    <string name="busi_exp">Business Experience (in year)</string>
+
+    <!--Signup activity-->
+
+    <string name="selectoccu">Occupation</string>
+
+    <!-- Loan Result Dialog -->
+    <string name="selectdistrict">District</string>
+    <string name="selectregion">Region</string>
+    <string name="selectloantype">Loan type</string>
+</resources>
