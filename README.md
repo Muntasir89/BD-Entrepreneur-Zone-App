@@ -1,4 +1,14 @@
 # BD-Entrepreneur-Zone-App
+This app is a loan-suitability prediction app which aims at collecting user data process that data through an ML model and then showing result to the user. It also focused on showing what type of entrepreneur loan bank provides usually.
+## Library Used
+- [Firebase Authentication][auth]
+- [Firebase-firestore][firestore]
+- [Material-components-android][material]
+
+[firestore]: https://firebase.google.com/docs/firestore/quickstart#java_2
+[auth]: https://firebase.google.com/docs/auth/android/start#java_1
+[material]: https://github.com/material-components/material-components-android/releases
+## Screenshots
 <p align="center">
   <img src="https://github.com/Muntasir89/BD-Entrepreneur-Zone-App/assets/78687005/5430e7fd-c02b-426e-b34a-99f12c7349a0" alt="image_description" width="270" height="600" />
   <img src="https://github.com/Muntasir89/BD-Entrepreneur-Zone-App/assets/78687005/2b17abd0-9be5-46b6-85a3-58ccd8969003" alt="image_description" width="270" height="600" />
